@@ -1,0 +1,2 @@
+[ 2026-11-05 11:05:07,351 ] INFO root (line:1) - welcome to logging
+[ 2026-11-05 11:06:26,037 ] ERROR root (line:1) - application failed due to error
